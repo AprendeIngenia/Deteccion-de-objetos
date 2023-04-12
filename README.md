@@ -3,7 +3,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 9 del curso de visi�
 
 ### Conceptos introductorios:
 - En este repositorio aprenderá y se expondrá a una amplia gama de temas interesantes como manipulación de imágenes y videos, mejora de imágenes, filtrado, detección de bordes, detección y seguimiento de objetos, detección de rostros y el módulo de aprendizaje profundo con OpenCV.
-- Para iniciar recomendamos ver algunos conceptos introductorios sobre que es la deteccion de objetos, que CNN vamos a utilizar y cual es su composición en el siguiente video [video.](https://youtu.be/JHaVF27J_0I)
+- Para iniciar recomendamos ver algunos conceptos introductorios sobre que es la deteccion de objetos, que CNN vamos a utilizar y cual es su composición en el siguiente video [video.](https://youtu.be/fhAZisSoMAs)
 
 
 ![Miniatura](https://user-images.githubusercontent.com/85022752/231582851-78a935e3-f7ba-4901-8694-b7cf252cc015.jpg)
@@ -26,7 +26,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 9 del curso de visi�
   - Anotación de nuestros frames en tiempo real.
  
  
-  - Para entender mejor el funcionamiento te dejamos la explicación en este [video.](https://youtu.be/JHaVF27J_0I)
+  - Para entender mejor el funcionamiento te dejamos la explicación en este [video.](https://youtu.be/fhAZisSoMAs)
 
 
 ![CURSO ACELERADO OPENCV](https://user-images.githubusercontent.com/85022752/231584300-328eb95f-0abe-456c-a204-75bec88ca864.jpg)
