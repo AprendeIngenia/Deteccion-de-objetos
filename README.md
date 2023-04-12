@@ -15,7 +15,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 9 del curso de visi�
 # PROGRAMACIÓN:
 
 ### Object Detect:
-- INICIAMOS con la programación; [ObjectDetect.py,](https://github.com/AprendeIngenia/Deteccion-de-rostros-Clase-8/blob/e65237a441aa4cf2f4d2e2d511c15a50145843a6/Rostros.py) en este script desglosar todo el funcionamiento de nuestro algoritmos, teniendo en cuenta varias etapas de programación:
+- INICIAMOS con la programación; [ObjectDetect.py,](https://github.com/AprendeIngenia/Deteccion-de-objetos/blob/7cddfc616c3e95e64421187ae3a62462edd73e35/ObjectDetect.py) en este script desglosar todo el funcionamiento de nuestro algoritmos, teniendo en cuenta varias etapas de programación:
   - Lectura de la arquitectura de nuestro modelo.
   - Lectura de los pesos de nuestro modelo.
   - Creación de funciones esenciales (Detección de objetos, Escritura de texto, y anotación sobre las detecciones).
