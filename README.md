@@ -6,7 +6,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 9 del curso de visi�
 - Para iniciar recomendamos ver algunos conceptos introductorios sobre que es la deteccion de objetos, que CNN vamos a utilizar y cual es su composición en el siguiente video [video.](https://youtu.be/fhAZisSoMAs)
 
 
-![Miniatura](https://user-images.githubusercontent.com/85022752/231582851-78a935e3-f7ba-4901-8694-b7cf252cc015.jpg)
+![Miniatura YouTube curso SEO 3D morado (9)](https://user-images.githubusercontent.com/85022752/235784253-9d9cd543-8a34-49c0-8aa6-2187ecfd1313.jpg)
 
 
 ### Instalación del entorno:
